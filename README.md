@@ -2,3 +2,5 @@
 Je change le readme avec de nouvelles informations!
 
 Je suis une autre personne qui ajoute des choses!
+
+Le but du projet est d'avoir des choses cool!
